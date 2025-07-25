@@ -1,0 +1,120 @@
+<DOCTIPE html> 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<title>Curriculum Vitae de [ nombre] </title>
+</head>
+<body>
+    <header
+        <h1>[nombre completo]</h1>
+        <p>[estudiante, e.g Desarrollador Web Full Stack]</p>
+        <address>
+            <ul>
+                <li><a href="mailto: email.com">email.com</a></li>
+                <li><a href="tel:+58 123456...">+58 123456...</a></li>
+                
+            </ul>
+        </address>
+   </header>
+
+   <main>
+    <section id="nombre"
+     <h2> estudiante segundo año </h2>
+    </section>
+    <section id=" expeciencia"
+    <h2>Experiencia laboral</h2>
+    <article>
+        <h3> [cargo] en [nombre de la empresa]</h3>
+            <p class="fechas">[fecha de inicio]-[fecha de fin]/actualidad</p>
+            <ul>
+            <li>descripcion de responsabilidades</li>
+            
+            </ul>
+    </article>
+    <article>
+        <h3>[otro cargo] en [otra empresa]</h3>
+        <p class="fechas">[fecha de inicion]-[fecha de fin]</p>
+        <ul>
+            <li> descripcion de rtesponsabilidades</li>
+        </ul>
+    </article>
+   </section>
+
+   <section id="educacion"
+   <h2>"Educacion"</h2>
+   <artice>
+    <h3>[Grado o titulo obtenido]</h3>
+    <p>[Nombre de la institucion educativa]</p>
+    <p class="fechas">[fecha de inicio]-[fecha de fin]</p>
+    <p>[Detalles revelantes, como honores, proyectos finales, etc</p>
+   </ul>
+  </article>
+  </section>
+  
+  <setion id="educacion">
+    <h2>Educacion</h2>
+    <article>
+        <h3>[Grado o titulo obtenido</h3>
+        <p>[Detalles revelantes como honores, proyectos finales, etc</p>
+    </article>
+    <article>
+        <h3>[ Otro Grado o Curso</h3>
+        <p>[ otra institucion]</p>
+        <p class="fechas">[Fecha de inicio]-[Fecha de fin]</p>
+    </article>
+  </setion>
+
+  <section id="hebilidades">
+    <h2>Habilidades</h2>
+    <div>
+        <h3>Tecnicas</h3>
+        <ul>
+            <li>HTML5,CSS3, javascrip
+                (ES6+)
+             </li>
+             <li>React; Angular; Vue.js</li>
+             <li>Node.js, Python, java</li>
+             <li>Bases de Datos (SQL, NoSQL)</li>
+             <li> control de versiones(Git)</li>
+        </ul>
+    </div>
+    <div>
+        <h3>Blandas</h3>
+        <ul>
+            <li>Comunicacion efectiva</li>
+            <li>Resolucion de problemas</li>
+            <li>Trabajo en equipo</li>
+            <li>Adaptivilidad</li>
+        </ul>
+    </div>
+    <div>
+        <h3>Idiomas
+            <ul>
+                <li>Español(Nativo)</li>
+                <li>Ingles(Fluido/B2)</li>
+            </ul>
+    </div>
+  </section>
+
+  <section id="proyectos"class="opcional"></section>
+  <h2>proyectos</h2>
+  <article>
+    <h3><a herf="httpslinkdelproyecto.com"Target="_blank"rel=2noopener noreferrer">[Nombre del proyecto]</a></h3>
+    <p class="tecnologias">tecnologias usadas[HTML,CSS,JS,React,Node.JS]</p>
+    <p> Breve descripcion del proyecto, contribuciones y el impacto</p>
+  </article>
+  </section>
+
+  <section id="intereses" class="opcional"></section>
+  <h2>intereses</h2>
+  <p> Lectura, senderismo, voluntariado,programacion competitiva, etc.</p>
+</section>
+   </main>
+   <footer>
+    <p>&copy; [Año actual [ nombre]
+        Todos los derechos reservados</p>
+   </footer>
+   </body>
+    </html>
